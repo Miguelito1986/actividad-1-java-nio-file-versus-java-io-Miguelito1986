@@ -3,12 +3,12 @@ package Ejercicio;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO ApÈndice de mÈtodo generado autom·ticamente
+		// TODO Ap√©ndice de m√©todo generado autom√°ticamente
 
-		Fichero archivos1=new Fichero();
-	
+		Fichero archivo = new Fichero();
+		archivo.Metodo1(".");
+		System.out.println("\n");
+		archivo.Metodo2(".");
 		
-	
 	}
-
 }
