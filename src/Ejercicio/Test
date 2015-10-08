@@ -1,0 +1,20 @@
+package Ejercicio;
+
+import static org.junit.Assert.*;
+
+/**
+ * @author Vaio
+ *
+ */
+@SuppressWarnings("unused")
+public class Test {
+
+	@org.junit.Test
+	public void main() {
+		// TODO Auto-generated method stub
+		Fichero f = new Fichero();
+		f.Metodo1(".");
+		System.out.println("\n");
+		f.Metodo2(".");
+	}
+}
